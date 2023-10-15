@@ -12,3 +12,6 @@ package-lock.json
 yarn.lock
 pnp-lock.yaml
 bun.lockb
+
+# docker
+docker-compose.debug.yml
